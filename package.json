@@ -1,0 +1,49 @@
+{
+  "_from": "jotafeldmann-node-utils",
+  "_id": "jotafeldmann-node-utils@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-lMu56CdH/0t8qY+o64h6CvaPTjw=",
+  "_location": "/jotafeldmann-node-utils",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jotafeldmann-node-utils",
+    "name": "jotafeldmann-node-utils",
+    "escapedName": "jotafeldmann-node-utils",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jotafeldmann-node-utils/-/jotafeldmann-node-utils-1.0.4.tgz",
+  "_shasum": "94cbb9e82747ff4b7ca98fa8eb887a0af68f4e3c",
+  "_spec": "jotafeldmann-node-utils",
+  "_where": "/Users/j/workspace/bla",
+  "author": {
+    "name": "Jota Feldmann"
+  },
+  "bugs": {
+    "url": "https://github.com/jotafeldmann/node-utils/issues"
+  },
+  "bundleDependencies": false,
+  "config": {
+    "url": "https://github.com/jotafeldmann/node-utils"
+  },
+  "deprecated": false,
+  "description": "My personal utils",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "jotafeldmann-node-utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotafeldmann/node-utils.git"
+  },
+  "scripts": {
+    "start": "node $npm_package_main"
+  },
+  "version": "1.0.4"
+}
